@@ -1,0 +1,30 @@
+{
+  "name": "backend-js-shopping",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregoriomiqui/backend_js_shopping.git"
+  },
+  "author": "Jose Miquilena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregoriomiqui/backend_js_shopping/issues"
+  },
+  "homepage": "https://github.com/Gregoriomiqui/backend_js_shopping#readme"
+}
